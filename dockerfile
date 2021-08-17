@@ -1,6 +1,6 @@
 from devopsedu/webapp
 
-ADD | var/www/htl
+ADD website var/www/htl
 
 RUN rm /var/www/html/index.html
 
